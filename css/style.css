@@ -1,10 +1,10 @@
 .mainbox{
-    background-color: darkblue;
+    background-color: #E9F4D2;
     width: 100%;
     margin: 0px auto;
 }
 .menu{
-    background-color: mediumblue;
+    background-color: #E9F4D2;
 }
 .leftside{
     background-color: blue;
@@ -12,7 +12,7 @@
     float: left;
 }
 .main{
-    background-color: lightseagreen;
+    background-color: #ECC97C;
     width: 70%;
     float: left;
 }
@@ -22,15 +22,18 @@
     float: left;
 }
 .footer {
-    background-color: limegreen;
+    background-color: #96726B;
 }
-.menu>ul>li.logo{
+.menu>ul>li.home-button{
+    margin-left: auto;
+}
+#menu-logo{
 
 }
 .menu>ul>li{
     display:inline;
     padding: 10px 10px 10px 10px;
-    background-color: #0000e1;
+    background-color: #A08A7C;
     position: relative;
     top: 8px;
     font-family: Tahoma,serif;
@@ -38,6 +41,6 @@
 }
 .menu>ul>li>a{
     text-decoration: none;
-    color: #18cee0;
+    color: #070707;
 }
 
