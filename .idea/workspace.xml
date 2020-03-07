@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="75a08f54-ddb2-4616-975e-9400e390a991" name="Default Changelist" comment="Save commit 1">
+    <list default="true" id="75a08f54-ddb2-4616-975e-9400e390a991" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/contacts.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/contacts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/gallery.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/libs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/order.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/order.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +39,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Marvellous\Desktop\PHPStorm Projects\NyArt\images" />
       <recent name="C:\Users\Marvellous\Desktop\PHPStorm Projects\NyArt\css" />
     </key>
   </component>
@@ -64,8 +68,16 @@
       <workItem from="1583249774644" duration="6865000" />
       <workItem from="1583345614398" duration="46000" />
       <workItem from="1583345968145" duration="608000" />
-      <workItem from="1583599260475" duration="2265000" />
+      <workItem from="1583599260475" duration="7288000" />
     </task>
+    <task id="LOCAL-00001" summary="Save commit 1">
+      <created>1583601849176</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583601849176</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -80,10 +92,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="0" y="169" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.864@0.0.1536.864" timestamp="1583345633923" />
-    <state x="10" y="30" key="CommitChangelistDialog2" timestamp="1583601828193">
+    <state x="10" y="30" key="CommitChangelistDialog2" timestamp="1583616020674">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="10" y="30" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1583601828193" />
+    <state x="10" y="30" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1583616020674" />
     <state x="548" y="188" key="FileChooserDialogImpl" timestamp="1583256951739">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
