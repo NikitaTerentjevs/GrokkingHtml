@@ -34,14 +34,13 @@
 }
 .footer {
     background-color: #96726B;
-    float: left;
+    clear: both;
     width: 100%;
     text-align: center;
 }
 .menu>ul>li.home-button{
-    margin-left: auto;
+    margin-left: 5px;
     float: right;
-
 }
 #menu-logo>img{
 
@@ -58,6 +57,7 @@
     top: 8px;
     right: 8px;
 
+
     font-family: Tahoma,serif;
     font-size: 14px;
 }
@@ -71,4 +71,11 @@
 .text-entry>h2{
     text-align: center;
 }
+
+.gallery>a>img{
+    width: 30%;
+    margin-left: 2%;
+
+}
+
 

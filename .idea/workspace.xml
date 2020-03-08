@@ -1,7 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="75a08f54-ddb2-4616-975e-9400e390a991" name="Default Changelist" comment="">
+    <list default="true" id="75a08f54-ddb2-4616-975e-9400e390a991" name="Default Changelist" comment="Save commit 2">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Clothings/dragon-jeans.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Clothings/dreamcatcher-jacket.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Clothings/flower-jacket.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Clothings/flowergirl-shirt.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Clothings/fox-jacket.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Clothings/lion-jacket.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Clothings/mexicanskull-jacket.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Clothings/phoenix-jacket.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Clothings/skull-jacket.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Clothings/woman-jacket.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Gallery WireFrame.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Main page.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Paintings/dawn_creek.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Paintings/dawn_winter.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Paintings/fb2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Paintings/fb3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Paintings/flower_bouquet.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Paintings/hidden_path.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Paintings/high_cliffs.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Paintings/lakeside_autumn_and_summer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Paintings/lakeside_summer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Paintings/lakeside_year.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Paintings/lavander_fields.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Paintings/lilac_boquet.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Paintings/marble_arch.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Paintings/morning_winter.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Paintings/path_winter.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Paintings/poppy_flowers.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Paintings/poppy_flowers_in _pot.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Paintings/riverside_autumn.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Paintings/sakura_tree.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Paintings/sea_shore.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Paintings/shore_wave.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Paintings/shore_wave2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Paintings/summer_woods.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Paintings/water_drops.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Paintings/willow_tree.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Paintings/woman_with_umbrella.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lightbox/css/lightbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lightbox/css/lightbox.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lightbox/js/lightbox-plus-jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lightbox/js/lightbox-plus-jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lightbox/js/lightbox-plus-jquery.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lightbox/js/lightbox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lightbox/js/lightbox.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lightbox/js/lightbox.min.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/libs/contacts.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/contacts.html" afterDir="false" />
@@ -34,11 +82,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lightbox" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Marvellous\Desktop\PHPStorm Projects\NyArt\lightbox" />
       <recent name="C:\Users\Marvellous\Desktop\PHPStorm Projects\NyArt\images" />
       <recent name="C:\Users\Marvellous\Desktop\PHPStorm Projects\NyArt\css" />
     </key>
@@ -68,7 +117,7 @@
       <workItem from="1583249774644" duration="6865000" />
       <workItem from="1583345614398" duration="46000" />
       <workItem from="1583345968145" duration="608000" />
-      <workItem from="1583599260475" duration="7288000" />
+      <workItem from="1583599260475" duration="12771000" />
     </task>
     <task id="LOCAL-00001" summary="Save commit 1">
       <created>1583601849176</created>
@@ -77,25 +126,48 @@
       <option name="project" value="LOCAL" />
       <updated>1583601849176</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Third commit (design +-done)">
+      <created>1583616051286</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1583616051286</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Save commit 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Save commit 1" />
+    <MESSAGE value="Third commit (design +-done)" />
+    <MESSAGE value="Save commit 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Save commit 2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="0" y="169" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1583345633923">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="0" y="169" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.864@0.0.1536.864" timestamp="1583345633923" />
-    <state x="10" y="30" key="CommitChangelistDialog2" timestamp="1583616020674">
+    <state x="10" y="30" key="CommitChangelistDialog2" timestamp="1583678078872">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="10" y="30" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1583616020674" />
+    <state x="10" y="30" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1583678078872" />
+    <state x="0" y="72" key="DiffContextDialog" timestamp="1583677785639">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="0" y="72" key="DiffContextDialog/0.0.1536.864@0.0.1536.864" timestamp="1583677785639" />
     <state x="548" y="188" key="FileChooserDialogImpl" timestamp="1583256951739">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -104,14 +176,18 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="277" y="76" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1583256960884" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1583616443030">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1583616443030" />
     <state x="13" y="258" key="com.intellij.ide.util.TipDialog" timestamp="1583599309357">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="13" y="258" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1583599309357" />
-    <state x="578" y="350" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583260487336">
+    <state x="578" y="350" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583616545238">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="578" y="350" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1583260487336" />
+    <state x="578" y="350" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1583616545238" />
     <state x="814" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1583253923885">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
