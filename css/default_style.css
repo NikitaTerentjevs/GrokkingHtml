@@ -6,30 +6,20 @@
     top:66px;
 }
 .header{
-    background-color: sandybrown;
-    text-align: center;
+    width: 100%;
+    overflow: hidden;
+    margin: 0;
 }
 .menu{
     background-color: #E9F4D2;
-    width: 100%;
     position: fixed;
+    width:100%;
     z-index: 1;
 
 
 }
-.leftside{
-    background-color: blue;
-    width: 15%;
-    float: left;
-}
 .main{
     background-color: #ECC97C;
-    width: 70%;
-    float: left;
-}
-.rightside{
-    background-color: lightgreen;
-    width: 15%;
     float: left;
 }
 .footer {
@@ -65,17 +55,14 @@
     text-decoration: none;
     color: #070707;
 }
-.text-entry>p{
-    text-align: justify;
-}
-.text-entry>h2{
-    text-align: center;
-}
 
-.gallery>a>img{
-    width: 30%;
-    margin-left: 2%;
+.mySlides {
+    opacity: 50%;
+    width: 100%;
 
 }
+
+
+
 
 

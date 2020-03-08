@@ -6,11 +6,12 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
-    <link rel="stylesheet" href="../css/index_style.css">
+    <link rel="stylesheet" href="../css/gallery_style.css">
     <link rel="stylesheet" href="../css/default_style.css">
     <link rel="stylesheet" href="../css/reset.css">
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link href="../lightbox/css/lightbox.css" rel="stylesheet" />
 
 </head>
 <body>
@@ -30,55 +31,32 @@
         </div>
 
         <div class="mySlides">
-            <img src="../images/Clothings/fox-jacket.jpg"  alt="" style="width:100%;margin: -37.5% 0 -47.5% 0;">
+            <img src="../images/Clothings/fox-jacket.jpg" alt="" style="width:100%;margin: -37.5% 0 -47.5% 0;">
         </div>
 
         <div class="mySlides">
             <img src="../images/Logo.jpg" alt="" style="width:100%;margin: -16.5% 0;">
         </div>
     </div>
-
+    <div class="leftside">
+        <ul>
+            <li><a href="./gallery_paintings.html">Paintings</a></li>
+            <li><a href="./gallery_clothing.html">Clothing</a></li>
+            <li><a href="./gallery_other.html">Other media</a></li>
+        </ul>
+    </div>
     <div class="main">
-
-        <a href="./order.html">
-            <h3>Order</h3>
-            <img id="order-pic" src="../images/Clothings/flowergirl-shirt.jpg" alt="Order">
-        </a>
-        <a href="gallery_paintings.html">
-            <h3>Product gallery</h3>
-            <img id="product-pic" src="../images/Paintings/high_cliffs.jpg" alt="Products">
-        </a>
-        <h2>Additional info</h2>
-        <img id="my-pic" src="../images/Logo.jpg"  alt=""> <!-- TODO: place better pic-->
-        <p id="my-bio"> Here is some information about myself! <br>
-            My name is Nataly Terentjeva, I am part-time artist!
-            I liked drawing whole my life but i never shared my work with anyone,
-            so the time has come and i made this web page to showoff some of my latest paintings
-            and if there will be someone who liked my work and likes to purchase it it is also possible.
-        </p>
-
-        <div>
-            <h2>I live somewhere there</h2>
-
-            <div id="googleMap" style="width:100%;height:400px;"></div>
+        <div class="row">
+            <div class="item">
+                <a href="../images/Logo.jpg" data-lightbox="Other">
+                    <img src="../images/Logo.jpg" alt="Nataly Art Logo"></a>
+                <p>Logo</p>
+            </div>
         </div>
     </div>
-
     <div class="footer">Here is my footer for the time being</div>
 </div>
-
-<script>
-    function myMap() {
-        var mapProp= {
-            center:new google.maps.LatLng(51.508742,-0.120850),
-            zoom:5,
-        };
-        var map = new google.maps.Map(document.getElementById("googleMap"),mapProp);
-    }
-</script>
 <script src="../js/autoslide.js"></script>
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCc3I0aZAjZ1Dfrgybu4hJV3v4h07yFMxA&callback=myMap"></script>
-
-
+<script src="../lightbox/js/lightbox-plus-jquery.js"></script>
 </body>
 </html>

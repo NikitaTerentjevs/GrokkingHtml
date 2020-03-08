@@ -1,0 +1,22 @@
+.main{
+    width: 100%;
+}
+#order-pic{
+    height: 180px;
+
+}
+#product-pic{
+    height: 180px;
+
+}
+#my-pic{
+    height: 180px;
+    float: left;
+}
+#my-bio{
+ margin-left: 105px;
+}
+
+
+
+

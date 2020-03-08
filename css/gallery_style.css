@@ -1,0 +1,44 @@
+.leftside{
+    background-color: #f4e1a4;
+    width: 20%;
+    height: 100%;
+    float: left;
+}
+.leftside>ul>li{
+    padding: 10px 10px 10px 10px;
+    position: relative;
+    background-color: #A08A7C;
+    right: 8px;
+    margin-top: 8px;
+
+    font-family: Tahoma,serif;
+    font-size: 14px;
+}
+
+.leftside>ul>li>a{
+    text-decoration: none;
+    color: #070707;
+}
+
+.main{
+    background-color: #ECC97C;
+    width: 80%;
+    float: left;
+}
+.row{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 30px 0 30px;
+}
+.item>p{
+
+}
+.item>a>img{
+    height: 100px;
+}
+
+
+
+
+
+
