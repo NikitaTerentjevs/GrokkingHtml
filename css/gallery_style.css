@@ -1,3 +1,4 @@
+
 .leftside{
     background-color: #f4e1a4;
     height: 100%;
@@ -56,6 +57,11 @@
 
 
 @media only screen and (min-width: 510px) {
+    html, body, .mainbox, .leftside, .main{
+        height: 100%;
+    }
+
+
     .leftside>ul>li{
         padding: 10px 10px 10px 10px;
         position: relative;
