@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="75a08f54-ddb2-4616-975e-9400e390a991" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/gallery_style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/gallery_style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +79,7 @@
       <workItem from="1583345614398" duration="46000" />
       <workItem from="1583345968145" duration="608000" />
       <workItem from="1583599260475" duration="32823000" />
-      <workItem from="1583754520519" duration="3315000" />
+      <workItem from="1583754520519" duration="3636000" />
     </task>
     <task id="LOCAL-00001" summary="Save commit 1">
       <created>1583601849176</created>
@@ -117,7 +116,21 @@
       <option name="project" value="LOCAL" />
       <updated>1583757377322</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Bugfix commit 1">
+      <created>1583757913219</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1583757913219</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Bugfix commit 1">
+      <created>1583757947149</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1583757947149</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,11 +159,11 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="0" y="169" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.864@0.0.1536.864" timestamp="1583345633923" />
-    <state x="13" y="36" key="CommitChangelistDialog2" timestamp="1583757933361">
+    <state x="13" y="36" key="CommitChangelistDialog2" timestamp="1583757946411">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="10" y="30" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1583695121336" />
-    <state x="13" y="36" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1583757933361" />
+    <state x="13" y="36" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1583757946411" />
     <state x="0" y="72" key="DiffContextDialog" timestamp="1583677785639">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -163,11 +176,11 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="277" y="76" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1583256960884" />
-    <state x="451" y="199" key="Vcs.Push.Dialog.v2" timestamp="1583757922089">
+    <state x="451" y="199" key="Vcs.Push.Dialog.v2" timestamp="1583758030017">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1583695130560" />
-    <state x="451" y="199" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1583757922089" />
+    <state x="451" y="199" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1583758030017" />
     <state x="16" y="311" key="com.intellij.ide.util.TipDialog" timestamp="1583754522190">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
