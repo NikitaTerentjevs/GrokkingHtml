@@ -3,9 +3,16 @@
   <component name="ChangeListManager">
     <list default="true" id="75a08f54-ddb2-4616-975e-9400e390a991" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/default_style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/default_style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/contacts_style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/contacts_style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/gallery_style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/gallery_style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/index_style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index_style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/order_style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/order_style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/contacts.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/contacts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/gallery_clothing.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/gallery_clothing.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/libs/gallery_other.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/gallery_other.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/gallery_paintings.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/gallery_paintings.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libs/order.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/order.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,14 +52,15 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Marvellous\Desktop\PHPStorm Projects\NyArt\js" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Marvellous\Desktop\PHPStorm Projects\NyArt\libs" />
       <recent name="C:\Users\Marvellous\Desktop\PHPStorm Projects\NyArt\css" />
       <recent name="C:\Users\Marvellous\Desktop\PHPStorm Projects\NyArt\lightbox" />
       <recent name="C:\Users\Marvellous\Desktop\PHPStorm Projects\NyArt\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\TEMP.RVT.000.001.002\PhpstormProjects\GrokkingHtml" />
+      <recent name="C:\Users\Marvellous\Desktop\PHPStorm Projects\NyArt\js" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -81,6 +89,7 @@
       <workItem from="1583345614398" duration="46000" />
       <workItem from="1583345968145" duration="608000" />
       <workItem from="1583599260475" duration="32823000" />
+      <workItem from="1583754520519" duration="2796000" />
     </task>
     <task id="LOCAL-00001" summary="Save commit 1">
       <created>1583601849176</created>
@@ -158,10 +167,11 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1583695130560" />
-    <state x="13" y="258" key="com.intellij.ide.util.TipDialog" timestamp="1583599309357">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state x="16" y="311" key="com.intellij.ide.util.TipDialog" timestamp="1583754522190">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="13" y="258" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1583599309357" />
+    <state x="16" y="311" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583754522190" />
     <state x="578" y="350" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583616545238">
       <screen x="0" y="0" width="1536" height="864" />
     </state>

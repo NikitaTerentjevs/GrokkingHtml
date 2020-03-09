@@ -1,15 +1,5 @@
-.leftside{
-    background-color: blue;
-    width: 15%;
-    float: left;
-}
 .main{
     background-color: #ECC97C;
-    width: 70%;
-    float: left;
-}
-.rightside{
-    background-color: lightgreen;
-    width: 15%;
-    float: left;
+    width: 100%;
+    padding: 15px;
 }

@@ -1,8 +1,10 @@
 .leftside{
     background-color: #f4e1a4;
-    width: 20%;
     height: 100%;
     float: left;
+}
+.leftside>ul>li{
+
 }
 
 
@@ -44,6 +46,12 @@
     .item>iframe{
         width: 100%;
     }
+    .main{
+        padding: 10px;
+    }
+    .leftside{
+        width: 18%;
+    }
 }
 
 
@@ -66,6 +74,14 @@
     .item>a>img{
          height: 100px;
     }
+
+    .main{
+        padding: 20px;
+    }
+    .leftside{
+        width: 20%;
+    }
+
 
 }
 @media only screen and (min-width: 600px) {
